@@ -71,6 +71,10 @@ footer {
     height: 375px;
 }
 
+.work-samples img {
+    height: 375px;
+}
+
 .works {
     padding: 35px 35px;
     display: flex;
